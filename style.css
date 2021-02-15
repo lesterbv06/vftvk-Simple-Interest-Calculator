@@ -9,8 +9,13 @@ h1{
 .maindiv {
     background-color: white;
     color:black;
-    width: 300px;
+    min-width: 300px;
+    max-width: 400px;
     padding: 20px;
     border-radius: 25px;
-    align: center;
+    margin:0 auto;
+}
+
+#subSection{
+    margin: 0 10%;
 }
